@@ -1,5 +1,7 @@
 # Medellín 2
 
+Find your team below and click **Join**. The link won't work? Enter the **access code** at <https://catalog.us-east-1.prod.workshops.aws/join>.
+
 | # | Team name | Access code | Join link | Team code |
 |---|---|---|---|---|
 | 1 | **Garnet Barracudas** | `5f24-1f62b7-0f` | [Join](https://catalog.us-east-1.prod.workshops.aws/join?access-code=5f24-1f62b7-0f) | `BA020B4A48527F73DDB6F78CBCFFC5B1` |
@@ -9,4 +11,4 @@
 | 5 | **Garnet Herons** | `132a-1a2806-c5` | [Join](https://catalog.us-east-1.prod.workshops.aws/join?access-code=132a-1a2806-c5) | `7BC9BE8859EE9A6E963992657EF6DDA8` |
 | 6 | **Garnet Tacticians** | `df74-1c2edb-aa` | [Join](https://catalog.us-east-1.prod.workshops.aws/join?access-code=df74-1c2edb-aa) | `5296E7DD014DE4C49B522D014B7C8D87` |
 
-_Last updated: Tue Sep 22 2026 21:48:47 (CEST)_
+[← All sessions](../)
