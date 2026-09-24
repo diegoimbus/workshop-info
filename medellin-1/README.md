@@ -1,5 +1,7 @@
 # Medellín 1
 
+Find your team below and click **Join**. The link won't work? Enter the **access code** at <https://catalog.us-east-1.prod.workshops.aws/join>.
+
 | # | Team name | Access code | Join link | Team code |
 |---|---|---|---|---|
 | 1 | **Mantle Apostles** | `306e-15d74c-e0` | [Join](https://catalog.us-east-1.prod.workshops.aws/join?access-code=306e-15d74c-e0) | `77482FC4161469C8DAF57641EBA536D6` |
@@ -9,4 +11,4 @@
 | 5 | **Mantle Helixes** | `defe-1f4c43-ae` | [Join](https://catalog.us-east-1.prod.workshops.aws/join?access-code=defe-1f4c43-ae) | `BAF20FDE4B10348EF28EA406082CF05C` |
 | 6 | **Mantle Torpedoes** | `c3bf-11f90b-89` | [Join](https://catalog.us-east-1.prod.workshops.aws/join?access-code=c3bf-11f90b-89) | `E4A87142E8C265534460E79D993DAD8B` |
 
-_Last updated: Tue Sep 22 2026 21:47:08 (CEST)_
+[← All sessions](../)
